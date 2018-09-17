@@ -3,4 +3,7 @@
     <string name="app_name">AndroidLabs</string>
     <string name="hello_message">Privet vsem!</string>
     <string name="ButtonText">I\’m a button</string>
+    <string name="login">Login</string>
+    <string name="login_name">Imya polzovatelya</string>
+    <string name="password">Parol</string>
 </resources>
